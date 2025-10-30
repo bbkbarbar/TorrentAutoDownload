@@ -12,7 +12,7 @@ tc = transmission_rpc.Client(
 
 # --- CONFIG ---
 #SEARCH_URL = "https://bithumen.be/browse.php?search=sorozatnev+1080p"  
-BITCOOKIE = "uid=123456; pass=d66xxxxxxxxxxxxxxxxxxxxxxxxxd202" # << your bithumen cookie from chrome
+BITCOOKIE = "uid=1xxxx6; pass=d6xxxxxxxxxxxxxxxxxxxxxxxxxxxx02" # << your bithumen cookie from chrome
 
 TITLE = "Pandóra szellentése"                              # Barmilyen cim, csak hogy a konzolban latszon, melyiket csinalja, ha tobb is van
 SEARCH_URL = "https://bithumen.be/browse.php?c23=1&c7=1&genre=0&search=Pand%F3ra&vxx=3a330"   # rakeresel az oldalon (lehetőleg leszűrve csak arra a ketegóriára ami releváns), majd copy a TELJES url-t
