@@ -8,7 +8,7 @@ Extract your login cookie from bh:
 
 ![step2](https://github.com/bbkbarbar/TorrentAutoDownload/blob/main/extract_bh_cookie/2.png)
 
-1: Insert extracted data in your bh_<anything>.py script (BITCOOKIE).
+1: Insert extracted data in your bh_******.py script (-> BITCOOKIE).
 
 2: Modify run_silent.vbs script according to your working path.
 
