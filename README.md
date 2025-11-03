@@ -18,6 +18,13 @@ Automated script for downloading series from torrent sites with [Transmission cl
    - `LAST_FILE`
    - `DOWNLOAD_DIR`
 
+   You can find the "SEARCH_URL" by searching the wanted items on B.H. when only the neccessary categories ticked on.
+   After clicked on the search button, you can copy your "SEARCH_URL" from your browser.
+   e.g.: https://bithumen.be/browse.php?c41=1&genre=0&search=pand%F3ra+720p&vxx=3a330 
+   (notice, you should paste it with "https//...")
+
+![step3 - search url](https://github.com/bbkbarbar/TorrentAutoDownload/blob/main/extract_bh_cookie/3.png)
+
 #### 4. Modify `run_silent.vbs` script according to your working path.
 
 #### 5. Set the Windows Task Scheduler as how often as you want it to check for new torrent(s) availability.
