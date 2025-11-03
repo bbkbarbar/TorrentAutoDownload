@@ -1,0 +1,1 @@
+{{'lego' in (state_attr('sensor.transmission_elinditott_torrentek','torrent_info')|lower)}}
